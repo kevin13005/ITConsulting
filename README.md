@@ -10,4 +10,6 @@ https://kevin13005.github.io/bootstrap4/
 
 INSTALLATION :
 
--Get 
+Get the project --> https://github.com/kevin13005/HTML-CSS.git
+Go in your directory project
+Push on index.html files
